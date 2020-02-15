@@ -1,2 +1,0 @@
-# rainevickersjones
-My personal website
