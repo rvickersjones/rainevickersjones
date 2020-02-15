@@ -1,4 +1,2058 @@
-[0mMicrosoft Windows [Version 10.0.18362.476][0K[?25l
+[0mMicrosoft Windows [Version 10.0.18362.657][0K[?25l
 (c) 2019 Microsoft Corporation. All rights reserved.[0K
 [0K
-G:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>[0K[?25h
+G:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>[0K[?25h[?25l[2A(c) 2019 Microsoft Corporation. All rights reserve[0Kd
+.[0K
+[0K
+G:\Tools\RStudio\Default working directory\Reposit[0Ko
+ries\rainevickersjones>[0K[?25hg[0Ki[0Kt[0K[28G[?25lries\rainevickersjones>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes to be committed:[0K
+  (use "git restore --staged <file>..." to unstage[0K)
+[0K
+        [0;32mmodified:   .Rproj.user/961153DE/console06[0K/
+INDEX001[0m[0K
+        [0;32mmodified:   .Rproj.user/961153DE/sources/p[0Kr
+op/28F922C5[0m[0K
+        [0;32mmodified:   .Rproj.user/961153DE/sources/p[0Kr
+op/INDEX[0m[0K
+        [0;32mdeleted:    .Rproj.user/961153DE/sources/s[0K-
+5AB5800/3162FA74-contents[0m[0K
+        [0;32mdeleted:    .Rproj.user/961153DE/sources/s[0K-
+5AB5800/3BB7013C-contents[0m[0K
+        [0;32mdeleted:    .Rproj.user/961153DE/sources/s[0K-
+5AB5800/D29ED16B-contents[0m[0K
+        [0;32mdeleted:    .Rproj.user/961153DE/sources/s[0K-
+5AB5800/F00F9352-contents[0m[0K
+        [0;32mdeleted:    .Rproj.user/961153DE/sources/s[0K-
+5AB5800/F60E644-contents[0m[0K
+        [0;32mdeleted:    .Rproj.user/961153DE/sources/s[0K-
+5AB5800/lock_file[0m[0K
+        [0;32mmodified:   .Rproj.user/shared/notebooks/p[0Ka
+ths[0m[0K
+        [0;32mdeleted:    README.md[0m[0K
+        [0;32mmodified:   config.toml[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be [0Kc
+ommitted)[0K
+  (use "git restore <file>..." to discard changes [0Ki
+n working directory)[0K
+        [0;31mmodified:   .Rproj.user/961153DE/console06[0K/
+A937B410[0m[0K
+        [0;31mmodified:   .Rproj.user/961153DE/console06[0K/
+INDEX001[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will[0K
+be committed)[0K
+        [0;31mthemes/[0m[0K
+[0K
+[0K
+G:\Tools\RStudio\Default working directory\Reposit[0Ko
+ries\rainevickersjones>[0K[?25hg[0Ki[0Kt[0K[28G[?25lries\rainevickersjones>git a[0K[?25hd[0Kd[0K[32G[?25lries\rainevickersjones>git add t[0K[?25hh[0Ke[0Ke[0K[?25lries\rainevickersjones>git add the[0K[?25hm[0Ke[0Ks[0K/[0K]0;  - git  add themes/[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/.eslintrc.yml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/.prettierrc.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/LICENSE.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/README.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/archetypes/default.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/archetypes/posts.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/js/main.js.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/js/menu.js.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/js/prism.js.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/assets/js/theme.js.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/_buttons.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/assets/scss/_fonts.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/_footer.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/_header.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in themes/hug[0Ko[39G[?25h[?25l
+-theme-hello-friend-ng/assets/scss/_list.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/_logo.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/_main.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/assets/scss/_menu.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/_mixins.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in themes/hug[0Ko[1G[?25h[?25l
+-theme-hello-friend-ng/assets/scss/_normalize.scss[0K.
+[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/assets/scss/_prism.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/assets/scss/_single.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/assets/scss/_variables.scss[0K.
+[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/assets/scss/main.scss.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/data/langFlags.yaml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/exampleSite/config.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/about.m[0Kd
+.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/exampleSite/content/posts/c[0Kr
+eating-a-new-theme.fr.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/c[0Kr
+eating-a-new-theme.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/g[0Ko
+isforlovers.fr.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/g[0Ko
+isforlovers.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/h[0Ku
+goisforlovers.fr.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/h[0Ku
+goisforlovers.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/m[0Ki
+grate-from-jekyll.fr.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/exampleSite/content/posts/m[0Ki
+grate-from-jekyll.md.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/i18n/de.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/i18n/en.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/i18n/es.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/i18n/fr.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/i18n/hi.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/i18n/pt-br.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/404.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/layouts/_default/baseof.htm[0Kl
+.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/_default/list.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/_default/single.htm[0Kl
+.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/layouts/index.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/comments.h[0Kt
+ml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/favicons.h[0Kt
+ml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/footer.htm[0Kl
+.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/head.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/layouts/partials/header.htm[0Kl
+.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/javascript[0K.
+html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/logo.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/menu.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/pagination[0K.
+html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/social-ico[0Kn
+s.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/svg.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/partials/theme-icon[0K.
+html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/posts/rss.xml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/posts/single.html.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/shortcodes/figure.h[0Kt
+ml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/layouts/shortcodes/image.ht[0Km
+l.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/package-lock.json.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+warning: LF will be replaced by CRLF in themes/hug[0Ko
+-theme-hello-friend-ng/package.json.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in themes/hug[0Ko[?25l
+-theme-hello-friend-ng/theme.toml.[0K
+The file will have its original line endings in yo[0Ku
+r working directory[0K
+[0K[?25h]0; [?25l
+G:\Tools\RStudio\Default working directory\Reposit[0Ko
+ries\rainevickersjones>[0K[?25h[?25l[85Aones>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[40A[6G[?25h[?25l[46A                                                                     ones>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[40A[75G[?25h[?25l
+G:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[75G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>g[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[76G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>gi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[77G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[78G[?25h[79G[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git c[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[80G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git co[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[81G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git com[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[82G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git comm[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[83G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git commi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[39A[84G[?25h[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git commi[0Kt
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[?25h[2G[?25l -[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[3G[?25h[?25l -m[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[4G[?25h[5G[?25l -m "[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[6G[?25h[?25l -m "A[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[7G[?25h[?25l -m "Ad[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[8G[?25h[?25l -m "Add[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[9G[?25h[?25l -m "Addi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[10G[?25h[?25l -m "Addin[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[11G[?25h[?25l -m "Adding[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[12G[?25h[13G[?25l -m "Adding n[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[14G[?25h[?25l -m "Adding ne[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[15G[?25h[?25l -m "Adding new[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[16G[?25h[17G[?25l -m "Adding new t[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[18G[?25h[?25l -m "Adding new th[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[19G[?25h[?25l -m "Adding new the[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[20G[?25h[?25l -m "Adding new them[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[21G[?25h[?25l -m "Adding new theme[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[22G[?25h[?25l -m "Adding new theme"[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[38A[23G[?25h]0;  - git  commit -m "Adding new theme"[?25l
+[?25h[master 6b36246] Adding new theme[0K[?25l
+ 93 files changed, 7813 insertions(+), 97 deletions(-)[0K
+ delete mode 100644 .Rproj.user/961153DE/sources/s-5AB5800/3162FA74-contents[0K
+ delete mode 100644 .Rproj.user/961153DE/sources/s-5AB5800/3BB7013C-contents[0K
+ delete mode 100644 .Rproj.user/961153DE/sources/s-5AB5800/F60E644-contents[0K
+ delete mode 100644 .Rproj.user/961153DE/sources/s-5AB5800/lock_file[0K
+ delete mode 100644 README.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/.eslintrc.yml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/.prettierrc[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/LICENSE.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/README.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/archetypes/default.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/archetypes/posts.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/js/main.js[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/js/menu.js[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/js/prism.js[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/js/theme.js[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_buttons.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_fonts.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_footer.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_header.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_list.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_logo.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_main.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_menu.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_mixins.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_normalize.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_prism.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_single.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/_variables.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/assets/scss/main.scss[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/data/langFlags.yaml[0K
+ rename .Rproj.user/961153DE/sources/s-5AB5800/D29ED16B-contents => themes/hugo-the[0Km
+e-hello-friend-ng/exampleSite/config.toml (99%)[0K
+ rename .Rproj.user/961153DE/sources/s-5AB5800/F00F9352-contents => themes/hugo-the[0Km
+e-hello-friend-ng/exampleSite/content/about.md (100%)[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/cre[0Ka
+ting-a-new-theme.fr.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/cre[0Ka
+ting-a-new-theme.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/goi[0Ks
+forlovers.fr.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/goi[0Ks
+forlovers.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/hug[0Ko
+isforlovers.fr.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/hug[0Ko
+isforlovers.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/mig[0Kr
+ate-from-jekyll.fr.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/content/posts/mig[0Kr
+ate-from-jekyll.md[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/resources/_gen/as[0Ks
+ets/scss/scss/main.scss_39fa5fe97be74115670eace810202c56.content[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/exampleSite/resources/_gen/as[0Ks
+ets/scss/scss/main.scss_39fa5fe97be74115670eace810202c56.json[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/i18n/de.toml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/i18n/en.toml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/i18n/es.toml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/i18n/fr.toml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/i18n/hi.toml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/i18n/pt-br.toml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/images/screenshot.png[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/images/tn.png[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/404.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/_default/baseof.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/_default/list.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/_default/single.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/index.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/comments.htm[0Kl
+[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/favicons.htm[0Kl
+[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/footer.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/head.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/header.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/javascript.h[0Kt
+ml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/logo.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/menu.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/pagination.h[0Kt
+ml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/social-icons[0K.
+html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/svg.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/partials/theme-icon.h[0Kt
+ml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/posts/rss.xml[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/posts/single.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/shortcodes/figure.htm[0Kl
+[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/layouts/shortcodes/image.html[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/package-lock.json[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/package.json[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/resources/_gen/assets/scss/sc[0Ks
+s/main.scss_39fa5fe97be74115670eace810202c56.content[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/resources/_gen/assets/scss/sc[0Ks
+s/main.scss_39fa5fe97be74115670eace810202c56.json[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Bold.wo[0Kf
+f[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Bold.wo[0Kf
+f2[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-BoldIta[0Kl
+ic.woff[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-BoldIta[0Kl
+ic.woff2[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Italic.[0Kw
+off[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Italic.[0Kw
+off2[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Medium.[0Kw
+off[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Medium.[0Kw
+off2[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-MediumI[0Kt
+alic.woff[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-MediumI[0Kt
+alic.woff2[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Regular[0K.
+woff[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/static/fonts/Inter-UI-Regular[0K.
+woff2[0K
+ create mode 100644 themes/hugo-theme-hello-friend-ng/theme.toml[0K
+[0K[?25h]0; [?25l
+G:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>[0K[?25hg[0Ki[0Kt[0K[79G[?25lG:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>git p[0K[?25hu[0Ks[0Kh[0K]0;  - git  push[?25l
+[0K[?25hEnumerating objects: 131, done.[0K[?25l
+Counting objects: 100% (131/131), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects:  95% (103/108)[0K[1G[?25hCompressing objects: 100% (108/108), done.[0K[?25l
+Writing objects:  42% (50/118)[0K[1G[?25h[?25lWriting objects:  94% (111/118)[0K[1G[?25h[?25lWriting objects:  97% (115/118), 984.00 KiB | 771.00 KiB/s[0K[1G[?25hWriting objects: 100% (118/118), 1.51 MiB | 1.15 MiB/s, done.[0K[?25l
+Total 118 (delta 13), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  61% (8/13)[0K[1G[?25hremote: Resolving deltas: 100% (13/13), completed with 6 local objects.[0K[?25l
+[0K[?25hTo https://github.com/rvickersjones/rainevickersjones.git[0K[?25l
+   34cea12..6b36246  master -> master[0K
+[0K[?25h]0; [?25l
+G:\Tools\RStudio\Default working directory\Repositories\rainevickersjones>[0K[?25h[?25l[13A[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+         create mode 100644 themes/hugo[0K-
+theme-hello-friend-ng/theme.toml[0K
+[0K
+G:\Tools\RStudio\Default working direct[0Ko
+ry\Repositories\rainevickersjones>git p[0Ku
+sh[0K
+Enumerating objects: 131, done.[0K
+Counting objects: 100% (131/131), done.[0K
+Delta compression using up to 4 threads[0K
+Compressing objects: 100% (108/108), do[0Kn
+e.[0K
+Writing objects: 100% (118/118), 1.51 M[0Ki
+B | 1.15 MiB/s, done.[0K
+Total 118 (delta 13), reused 0 (delta 0[0K)
+[0K
+remote: Resolving deltas: 100% (13/13),[0K
+completed with 6 local objects.[0K
+To https://github.com/rvickersjones/rai[0Kn
+evickersjones.git[0K
+   34cea12..6b36246  master -> master[0K
+[0K
+G:\Tools\RStudio\Default working direct[0Ko
+ry\Repositories\rainevickersjones>[0K[?25h[0m[1;1H[2J[0meltas: 100% (13/13[0K)[?25l
+, completed with 6[0K
+local objects.[0K
+To https://github.[0Kc
+om/rvickersjones/r[0Ka
+inevickersjones.gi[0Kt
+[0K
+   34cea12..6b3624[0K6
+  master -> master[0K
+[0K
+G:\Tools\RStudio\D[0Ke
+fault working dire[0Kc
+tory\Repositories\[0Kr
+ainevickersjones>[0K[?25h[0m[1;1H[2J[0m.[0K[?25l
+To https://github[0K.
+com/rvickersjones[0K/
+rainevickersjones[0K.
+git[0K
+   34cea12..6b362[0K4
+6  master -> mast[0Ke
+r[0K
+[0K
+G:\Tools\RStudio\[0KD
+efault working di[0Kr
+ectory\Repositori[0Ke
+s\rainevickersjon[0Ke
+s>[0K[?25h[0m[1;1H[2J[0m  .[0K[?25l
+To https://githu[0Kb
+.com/rvickersjon[0Ke
+s/rainevickersjo[0Kn
+es.git[0K
+   34cea12..6b36[0K2
+46  master -> ma[0Ks
+ter[0K
+[0K
+G:\Tools\RStudio[0K\
+Default working [0Kd
+irectory\Reposit[0Ko
+ries\rainevicker[0Ks
+jones>[0K[?25h[0m[1;1H[2J[0mRepositories\rainevickersjones>[0K[0m[1;1H[2J[0mickersjones>[0K[0m[1;1H[2J[0m             ickersjones>[0K

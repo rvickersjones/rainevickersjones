@@ -9,26 +9,39 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
+  homeSubtitle = "I am a Bachelor of Psychological Science (Honours) student at the University of Queensland, Australia. I'm about to start my fourth year, writing a thesis about transgender and cisgender ally intergroup contact."
+  
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Djordje Atlialp"
-  keywords = "homepage, blog, science, informatics, development, programming"
+  description = "Website of Raine Vickers-Jones"
+  keywords = "homepage, science, psychology, statistics"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  # contentTypeName = "posts"
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/r_vickersjones"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/rvickersjones"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/raine-vickers-jones-5a22a7aa/"
+
 [languages]
   [languages.en]
     title = "Raine Vickers-Jones"
-    subtitle = "A simple theme for Hugo where is this?"
-    keywords = "ffff"
-    copyright = "gfdgfd"
+    copyright = "Raine Vickers-Jones"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -41,6 +54,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/resume"
+  [[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact"
