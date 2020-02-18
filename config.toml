@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # Metadata mostly used in document's head
   description = "Website of Raine Vickers-Jones"
-  keywords = "homepage, science, psychology, statistics"
+  keywords = "homepage, science, psychology, statistics, open science"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
@@ -38,13 +38,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/raine-vickers-jones-5a22a7aa/"
 
+  [[params.social]]
+    name = "orcid"
+    url  = "https://orcid.org/0000-0003-4492-6123"
+    
 [languages]
   [languages.en]
-    title = "Raine Vickers-Jones"
+    title = "Raine Vickers-Jones" # My name in the middle of the index page
+    img = "Hello"
     copyright = "Raine Vickers-Jones"
     readOtherPosts = "Read other posts"
 
-    [languages.en.params.logo]
+    [languages.en.params.logo] #My name at the top of the page
       logoText = "Raine Vickers-Jones"
       logoHomeLink = "/"
     # or
@@ -54,10 +59,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "/resume"
-  [[menu.main]]
     identifier = "contact"
     name       = "Contact"
     url        = "/contact"
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/resume"
